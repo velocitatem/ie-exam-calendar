@@ -1,3 +1,4 @@
 streamlit-timeline
 streamlit
 pandas
+icalendar
